@@ -1,4 +1,4 @@
-void bubbleSortFlag<T extends Comparable<T>>(List<T> arr) {
+  void bubbleSortFlag<T extends Comparable<T>>(List<T> arr) {
   int i = 0, j;
   bool didSwap = true;
   T temp;
